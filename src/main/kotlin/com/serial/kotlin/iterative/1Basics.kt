@@ -1,4 +1,4 @@
-package com.serial.kotlin
+package com.serial.kotlin.iterative
 
 // Created by JetBrain / Opensource / Java interoperability
 

@@ -1,4 +1,4 @@
-package com.serial.kotlin
+package com.serial.kotlin.iterative
 
 // Kotlin standard library comes with scope functions (run, with, apply, let, also...)
 // Subtle differences (context object (it/this) and return value). Prefer scope functions using "this" to mainly handle object members

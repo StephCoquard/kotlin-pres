@@ -1,4 +1,4 @@
-package com.serial.kotlin
+package com.serial.kotlin.iterative
 
 // By default every element of a class is public
 

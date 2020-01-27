@@ -1,4 +1,4 @@
-package com.serial.kotlin
+package com.serial.kotlin.iterative
 
 // do and do...while are identical in Kotlin and Java
 

@@ -1,4 +1,4 @@
-package com.serial.kotlin;
+package com.serial.kotlin.iterative;
 
 public class MainClass {
 

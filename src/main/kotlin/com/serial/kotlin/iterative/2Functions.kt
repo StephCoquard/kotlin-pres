@@ -1,4 +1,4 @@
-package com.serial.kotlin
+package com.serial.kotlin.iterative
 
 // Functions are declared with the "fun" keyword
 // Function main (arguments optionnels)
